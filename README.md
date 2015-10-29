@@ -1,4 +1,4 @@
-# TDD Connect Fourk
+# TDD Connect Four
 
 A Game of Connect Four TDD-style
 
